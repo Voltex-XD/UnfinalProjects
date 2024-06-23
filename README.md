@@ -22,5 +22,6 @@
 # ⛔ FINAL OF THE README ⛔
 
 Roblox if you see this UnfinalProject please leave me a message on [discord](https://discord.gg/RUgxD9Q5Q6) that i should delete this or not, on that server i'm TetorialOKR, you will be only with me on that server but maybe in future not.
-\nOn my computer i deleted everything that had a link with it.
+
+On my computer i deleted everything that had a link with it.
 
