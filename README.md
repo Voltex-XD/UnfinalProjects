@@ -16,8 +16,8 @@
 #### I created one using batch but i don't tested this full code, only the GUI, i think i will test or not in future (is the server.bat file)
 
 ## ⚠ IMPORTANT ⚠
-### If you're an ordinary person give up don't build it, you will have trouble with police. 
-### If you don't want to give up build it at your own risk!
+### If you're an ordinary person give up, don't build it, you will have trouble with police. 
+### If you don't want to give up, build it at your own risk!
 
 # ⛔ FINAL OF THE README ⛔
 
