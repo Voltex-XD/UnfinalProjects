@@ -13,7 +13,7 @@
 ### I already made this code but getting only the code of every each script in ServerScriptService
 ## 3. Having a simple server runned by you on your computer because u are only who use it.
 ### With the termen server i meant an aplication that runs as server.
-#### I created one using batch but i don't tested this full code, only the GUI, i think i will test or not in future
+#### I created one using batch but i don't tested this full code, only the GUI, i think i will test or not in future (is the server.bat file)
 
 ## ⚠ IMPORTANT ⚠
 ### If you're an ordinary person give up don't build it, you will have trouble with police. 
@@ -22,5 +22,5 @@
 # ⛔ FINAL OF THE README ⛔
 
 Roblox if you see this UnfinalProject please leave me a message on [discord](https://discord.gg/RUgxD9Q5Q6) that i should delete this or not, on that server i'm TetorialOKR, you will be only with me on that server but maybe in future not.
-
+On my computer i deleted everything that had a link with it.
 
